@@ -22,6 +22,7 @@
 #include <cstdlib>
 #include <climits>
 #include <gbm.h>
+#include <numbers>
 
 #include "cursor.hpp"
 #include "render/renderer.hpp"
